@@ -7,4 +7,4 @@ for i in range(2 ** 32):
     pass
 print('Elapsed time {}.'.format(time.time() - start))
 
-# Elapsed time 181.92647790908813.
+# Elapsed time 181.92647790908813 without print().
